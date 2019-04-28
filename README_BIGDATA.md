@@ -46,7 +46,9 @@ pip install pyspark
 
 After pyspark is installed it will need to be pointed to the Spark bin that was downloaded previously. You can do so like:
 
+```
 export SPARK_HOME=/path/to/spark-2.3.3-bin-hadoop2.6
+```
 
 In a Unix environment, or by adding SPARK_HOME as a Windows Environment Variable.
 
