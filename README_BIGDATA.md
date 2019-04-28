@@ -12,7 +12,7 @@ This repository also requires Spark 2.3.X but can use Hadoop 2.6 or 2.7, instruc
 
 # Installation
 
-://archive.apache.org/dist/spark/spark-2.3.3/spark-2.3.3-bin-hadoop2.6.tgz
+wget https://archive.apache.org/dist/spark/spark-2.3.3/spark-2.3.3-bin-hadoop2.6.tgz
 - Curl can be used as an alternative or manual downloading
 
 tar -xvzf spark-2.3.3-bin-hadoop2.6.tgz
