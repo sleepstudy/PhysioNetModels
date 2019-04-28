@@ -17,7 +17,9 @@ wget https://archive.apache.org/dist/spark/spark-2.3.3/spark-2.3.3-bin-hadoop2.6
 ```
 - Curl can be used as an alternative or manual downloading
 
+```
 tar -xvzf spark-2.3.3-bin-hadoop2.6.tgz
+```
 
 === Python dependencies ===
 We will be relying on SystemML (Version 1.3.0), Sci-kit learn, and PySpark
